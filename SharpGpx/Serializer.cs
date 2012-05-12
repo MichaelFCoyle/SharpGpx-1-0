@@ -6,7 +6,7 @@ using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace BlueToque.Utility
+namespace Utility
 {
     /// <summary>
     /// This class presents the Xml serializer and deserializer wrapped using 
@@ -14,7 +14,7 @@ namespace BlueToque.Utility
     /// 
     /// This class also caches the serializers that were created so they can be re-used
     /// </summary>
-    public static class Serializer
+    static class Serializer
     {
         static Serializer()
         {

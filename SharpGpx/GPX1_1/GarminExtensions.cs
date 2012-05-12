@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Drawing;
 using System.Xml.Serialization;
-using BlueToque.SharpGpx.GPX1_1;
+using SharpGpx.GPX1_1;
 
-namespace BlueToque.SharpGpx.GPX1_1
+namespace SharpGpx.GPX1_1
 {
     public static class GarminExtensions
     {

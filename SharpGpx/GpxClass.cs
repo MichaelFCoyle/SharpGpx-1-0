@@ -1,10 +1,10 @@
 ﻿using System;
 using System.IO;
 using System.Xml;
-using BlueToque.SharpGpx.Properties;
-using BlueToque.Utility;
+using SharpGpx.Properties;
+using Utility;
 
-namespace BlueToque.SharpGpx
+namespace SharpGpx
 {
     /// <summary>
     /// parent class for GPX file format
