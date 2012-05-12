@@ -1,6 +1,7 @@
 syntax: glob
-*/bin/Debug/
 *.csproj.user
 */obj/
 *.suo
-*/bin/Release/
+*/bin/
+*.pidb
+*.userprefs
