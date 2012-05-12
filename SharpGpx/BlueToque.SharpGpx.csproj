@@ -8,11 +8,11 @@
     <ProjectGuid>{4FD2244C-C189-4166-BF60-562893B1521D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BlueToque.SharpGpx</RootNamespace>
+    <RootNamespace>SharpGpx</RootNamespace>
     <AssemblyName>SharpGpx</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <TargetFrameworkProfile />
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Enums.cs" />
-    <Compile Include="Extensions.cs" />
+    <Compile Include="GPX1_1\Extensions.cs" />
     <Compile Include="GpxClass.cs" />
     <Compile Include="GPX1_0\gpx.cs">
       <DependentUpon>gpx.xsd</DependentUpon>

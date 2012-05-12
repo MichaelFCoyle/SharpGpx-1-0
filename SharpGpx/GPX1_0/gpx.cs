@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 
 
-namespace BlueToque.SharpGpx.GPX1_0
+namespace SharpGpx.GPX1_0
 {
     public partial class gpx
     {

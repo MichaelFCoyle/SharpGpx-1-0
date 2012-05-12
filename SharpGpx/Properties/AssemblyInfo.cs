@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SharpGpx")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Read and write GPX Files")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Blue Toque Software")]
-[assembly: AssemblyProduct("BlueToque.GpxLib")]
+[assembly: AssemblyProduct("SharpGpx")]
 [assembly: AssemblyCopyright("Copyright © Blue Toque Software 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

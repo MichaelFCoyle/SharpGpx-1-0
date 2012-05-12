@@ -3,12 +3,12 @@ using System.Text;
 using System.Xml;
 using System.Xml.Xsl;
 
-namespace BlueToque.Utility
+namespace Utility
 {
     /// <summary>
     /// Helpers for use with Microsoft XSLT processor
     /// </summary>
-    public static class XsltHelper
+    static class XsltHelper
     {
         /// <summary>
         /// Transform the input xmlString to an output string using the given xslt string

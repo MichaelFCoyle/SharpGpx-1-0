@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 
 
-namespace BlueToque.SharpGpx.GPX1_1 
+namespace SharpGpx.GPX1_1 
 {
     public partial class gpxType
     {
@@ -15,11 +15,6 @@ namespace BlueToque.SharpGpx.GPX1_1
             : base(collection)
         { }
 
-        public wptTypeCollection Addwpt(wptType wptType)
-        {
-            Add(wptType);
-            return this;
-        }
     }
 
     public partial class rteTypeCollection 
@@ -47,12 +42,6 @@ namespace BlueToque.SharpGpx.GPX1_1
         public linkTypeCollection(IEnumerable<linkType> collection)
             : base(collection)
         { }
-
-        public linkTypeCollection Addlink(linkType linkType)
-        {
-            Add(linkType);
-            return this;
-        }
     }
 
     public partial class trksegTypeCollection
@@ -63,11 +52,6 @@ namespace BlueToque.SharpGpx.GPX1_1
             : base(collection)
         { }
 
-        public trksegTypeCollection Addtrkseg(trksegType trksegType)
-        {
-            Add(trksegType);
-            return this;
-        }
     }
 
     public partial class ptTypeCollection 

@@ -1,5 +1,5 @@
 ﻿
-namespace BlueToque.SharpGpx
+namespace SharpGpx
 {
     public enum GpxVersion
     {

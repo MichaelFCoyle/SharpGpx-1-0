@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Principal;
-using BlueToque.SharpGpx;
-using BlueToque.SharpGpx.GPX1_1;
+using SharpGpx;
+using SharpGpx.GPX1_1;
 
 namespace Examples
 {
