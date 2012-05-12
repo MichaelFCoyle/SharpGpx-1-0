@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueToque.SharpGpx", "SharpGpx\BlueToque.SharpGpx.csproj", "{4FD2244C-C189-4166-BF60-562893B1521D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpGpx", "SharpGpx\SharpGpx.csproj", "{4FD2244C-C189-4166-BF60-562893B1521D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{B666D200-A4C2-43A8-8424-42BDF277FBD6}"
 EndProject
