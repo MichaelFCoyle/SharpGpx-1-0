@@ -110,11 +110,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Xslt\gpx10to11.xslt" />
-    <Content Include="Xslt\gpx11to10.xslt" />
     <Content Include="GPX1_0\gpx.Generated.xml">
       <DependentUpon>gpx.xsd</DependentUpon>
     </Content>
+    <Content Include="Xslt\gpx10to11.xslt" />
+    <Content Include="Xslt\gpx11to10.xslt" />
     <Content Include="GPX1_1\GarminExtensions.Generated.xml">
       <DependentUpon>GarminExtensions.xsd</DependentUpon>
       <SubType>Designer</SubType>
