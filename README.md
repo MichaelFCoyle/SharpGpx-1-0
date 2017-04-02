@@ -18,9 +18,9 @@ You can either
 * not edit the XSDs (best choice)
 * install the [XsdToClasses](http://code.google.com/p/xsd-to-classes/) utility, and regenerate the code -- this would be useful if the standard changes, or there is a new one introduced.
 * remove references to the code generator and just use the code
-  ** Back up the generated files ending in "Generated.cs"
-  ** Edit the properties of the XSD file in Visual Studio to remove the reference to _XsdToClasses_ from the "custom tool" field.
-  ** restore the "generated" files back to the project.
+  * Back up the generated files ending in "Generated.cs"
+  * Edit the properties of the XSD file in Visual Studio to remove the reference to _XsdToClasses_ from the "custom tool" field.
+  * restore the "generated" files back to the project.
 
 ## Feedback
 
