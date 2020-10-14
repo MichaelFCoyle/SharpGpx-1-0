@@ -1,8 +1,10 @@
-# SharpGpx
+# SharpGpx 1.0
 
 ## Project Description
 
 SharpGpx implements an object model for reading and writing GPX ([GPS eXchange](http://en.wikipedia.org/wiki/GPS_eXchange_Format)). An extremely common format, GPX is used to record data and exchange data from GPS units.
+
+This is the .NET Standard version of this library. 
 
 ## Details
 
