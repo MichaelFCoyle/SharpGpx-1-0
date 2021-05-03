@@ -1,10 +1,10 @@
+# This version of the library has been deprecated, see [here for the most recent version](https://github.com/BlueToque/SharpGPX); #
+
 # SharpGpx 1.0
 
 ## Project Description
 
 SharpGpx implements an object model for reading and writing GPX ([GPS eXchange](http://en.wikipedia.org/wiki/GPS_eXchange_Format)). An extremely common format, GPX is used to record data and exchange data from GPS units.
-
-This version of the library has been deprecated, see [here for the most recent version](https://github.com/BlueToque/SharpGPX);
 
 ## Details
 
